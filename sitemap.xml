@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.rohitjha.me/about/</loc>
+    <loc>https://www.rohitjha.me/about/</loc>
     <lastmod>2018-07-05T07:59:16+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://www.rohitjha.me/posts/test-post/</loc>
+    <loc>https://www.rohitjha.me/posts/test-post/</loc>
     <lastmod>2018-07-03T17:30:12+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://www.rohitjha.me/categories/</loc>
+    <loc>https://www.rohitjha.me/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.rohitjha.me/posts/</loc>
+    <loc>https://www.rohitjha.me/posts/</loc>
     <lastmod>2018-07-03T17:30:12+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.rohitjha.me/</loc>
+    <loc>https://www.rohitjha.me/</loc>
     <lastmod>2018-07-05T07:59:16+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.rohitjha.me/tags/</loc>
+    <loc>https://www.rohitjha.me/tags/</loc>
     <priority>0</priority>
   </url>
   
