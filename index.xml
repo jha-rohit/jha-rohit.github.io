@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rohit Jha</title>
+    <link>http://www.rohitjha.me/</link>
+    <description>Recent content on Rohit Jha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Jul 2018 07:59:16 +0530</lastBuildDate>
+    
+	<atom:link href="http://www.rohitjha.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://www.rohitjha.me/about/</link>
+      <pubDate>Thu, 05 Jul 2018 07:59:16 +0530</pubDate>
+      
+      <guid>http://www.rohitjha.me/about/</guid>
+      <description>Hi, My name is Rohit Kumar Jha. I work as an application engineer at Media.net. My areas of interest include Competitive Programming, Big Data, Machine Learning and writing scalable code. Besides, I also love to play first person shooter games and am a gym freak :) I look forward to writing stuff and expressing my views through the medium of this site.</description>
+    </item>
+    
+    <item>
+      <title>Test Post</title>
+      <link>http://www.rohitjha.me/posts/test-post/</link>
+      <pubDate>Tue, 03 Jul 2018 17:30:12 +0530</pubDate>
+      
+      <guid>http://www.rohitjha.me/posts/test-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam maximus nibh vel augue lacinia, quis volutpat urna posuere. Sed placerat neque ipsum, nec efficitur sapien gravida vitae. Sed dapibus leo at metus condimentum, at ultrices nibh volutpat. Curabitur eget ante nec mauris iaculis feugiat. Nunc vestibulum magna quis lectus faucibus, eget condimentum nunc gravida. Cras ex lacus, faucibus vitae ligula eget, ullamcorper vehicula lacus. Nulla eu nibh massa. Cras ornare, diam in commodo mattis, lorem nisi ullamcorper purus, et sollicitudin diam nunc sed ligula.</description>
+    </item>
+    
+  </channel>
+</rss>
